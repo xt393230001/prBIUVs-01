@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 983325718
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1a70d45b0c7c17834702af65c33aa737
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f5ac0fc8e6cd02a35cbd6bb3aa361e76
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 1a70d45b0c7c17834702af65c33aa737
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 96
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/prefabs/ui/engine/MazarineEngine.prefab
+- Assets/prefabs/ui/engine/PurpleEngine.prefab
+- Assets/prefabs/ui/engine/LightGreenEngine.prefab
+- Assets/prefabs/ui/engine/WhiteEngine.prefab
+- Assets/prefabs/ui/engine/GreenEngine.prefab
+- Assets/prefabs/ui/engine/BlueEngine.prefab
+- Assets/prefabs/ui/engine/OrangeEngine.prefab
+- Assets/prefabs/ui/engine/YellowEngine.prefab
+- Assets/prefabs/ui/engine/PinkEngine.prefab
+- Assets/prefabs/ui/engine/RedEngine.prefab
+Dependencies:
+- D:/unity/unityProject/newYearProject/AssetBundles/StandaloneWindows/arts/materials

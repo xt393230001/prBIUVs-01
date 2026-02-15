@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 2182601923
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f2548c54ec783f61c8c3a3c53863409b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9c5c2bf181d9c166e27af67e2a391d17
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: f2548c54ec783f61c8c3a3c53863409b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/arts/dust/image/DustWisps 2.png
+- Assets/arts/dust/image/DustWisps 1.png
+- Assets/arts/dust/image/Nebula 1.png
+- Assets/arts/dust/image/DustCloud 2.png
+- Assets/arts/dust/image/DustSpray (2).png
+- Assets/arts/dust/image/sniper_smoke.tga
+- Assets/arts/dust/image/DustSpray (1).png
+- Assets/arts/dust/image/Nebula 2.png
+- Assets/arts/dust/image/EM Cloud (3).png
+- Assets/arts/dust/image/DustCloud 1.png
+- Assets/arts/dust/image/EM Cloud (2).png
+- Assets/arts/dust/image/EM Cloud (1).png
+- Assets/arts/dust/image/Nebula 3.png
+Dependencies: []

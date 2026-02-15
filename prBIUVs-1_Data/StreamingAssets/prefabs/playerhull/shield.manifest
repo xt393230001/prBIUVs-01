@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 2678599140
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 50506e3c7c6ea6e817525e460fa6c0dc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5b6134bf8fd2386afffeb4fa594b44c2
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 50506e3c7c6ea6e817525e460fa6c0dc
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 58
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7a748b82927a9f64fb27f4e8be024c45, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/prefabs/playerhull/shield/PlayerShield.prefab
+Dependencies:
+- D:/unity/unityProject/newYearProject/AssetBundles/StandaloneWindows/arts/particles

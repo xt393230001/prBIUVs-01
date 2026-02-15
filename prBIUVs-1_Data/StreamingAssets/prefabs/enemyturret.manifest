@@ -1,0 +1,51 @@
+ManifestFileVersion: 0
+CRC: 1784220704
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c91dfe261db1bbd52fad081b64894748
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1da80aff97a73052a91b2ee5a83cec2
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: c91dfe261db1bbd52fad081b64894748
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 58
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: c9c5b624611c2b64791e36d17745ab7c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7ee766c97a12dc94f9b3263330c80de9, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 120
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/prefabs/enemyturret/Turret Large 1.prefab
+- Assets/prefabs/enemyturret/Turret Medium 4.prefab
+- Assets/prefabs/enemyturret/Turret Medium 1.prefab
+- Assets/prefabs/enemyturret/Turret Small 2.prefab
+- Assets/prefabs/enemyturret/Turret Small 1.prefab
+- Assets/prefabs/enemyturret/Turret Large 2.prefab
+- Assets/prefabs/enemyturret/Turret Medium 3.prefab
+- Assets/prefabs/enemyturret/Turret Medium 2.prefab
+- Assets/prefabs/enemyturret/Turret Small 4.prefab
+- Assets/prefabs/enemyturret/Turret Small 3.prefab
+Dependencies:
+- D:/unity/unityProject/newYearProject/AssetBundles/StandaloneWindows/arts/materials
+- D:/unity/unityProject/newYearProject/AssetBundles/StandaloneWindows/arts/turrets

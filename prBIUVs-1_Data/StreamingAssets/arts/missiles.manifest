@@ -1,0 +1,58 @@
+ManifestFileVersion: 0
+CRC: 3825443574
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 68b9aa1746e29b87036e2a46a97de56b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9c5c2bf181d9c166e27af67e2a391d17
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 68b9aa1746e29b87036e2a46a97de56b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/arts/missiles/vulcan_heavy_impact.tga
+- Assets/arts/missiles/plasma_gun_trail_01.tga
+- Assets/arts/missiles/laser_impulse_medium_001.tga
+- Assets/arts/missiles/plasma_gun_flames_01.tga
+- Assets/arts/missiles/laser_impulse_medium_muzzle_flare_001.tga
+- Assets/arts/missiles/lightning_gun_flare_001.tga
+- Assets/arts/missiles/laser_impulse_001.psd
+- Assets/arts/missiles/vulcan_spark.tga
+- Assets/arts/missiles/Missile (5).png
+- Assets/arts/missiles/lightning_gun_beam.tga
+- Assets/arts/missiles/plasma_beam_hit_red.tga
+- Assets/arts/missiles/plasma_gun_flare_02.tga
+- Assets/arts/missiles/Missile (4).png
+- Assets/arts/missiles/solo_gun_muzzle.tga
+- Assets/arts/missiles/laser_impulse_impact_ring_001.tga
+- Assets/arts/missiles/sniper_spark.tga
+- Assets/arts/missiles/Missile (1).png
+- Assets/arts/missiles/solo_gun_flames_01.tga
+- Assets/arts/missiles/plasma_gun_flare_01.tga
+- Assets/arts/missiles/plasma_gun_trail_02.tga
+- Assets/arts/missiles/solo_gun_flames_02.tga
+- Assets/arts/missiles/laser_impulse_impact_star_001.tga
+- Assets/arts/missiles/lightning_gun_bolt_007.tga
+- Assets/arts/missiles/plasma_gun_flames_03.tga
+- Assets/arts/missiles/laser_impulse_impact_flare_001.tga
+- Assets/arts/missiles/plasma_gun_bolt_01.tga
+- Assets/arts/missiles/shot_gun_smoke.tga
+- Assets/arts/missiles/laser_impulse_muzzle_flare_001.tga
+- Assets/arts/missiles/Missile (6).png
+- Assets/arts/missiles/Missile (3).png
+- Assets/arts/missiles/lightning_gun_bolt.tga
+- Assets/arts/missiles/plasma_gun_flames_02.tga
+- Assets/arts/missiles/solo_gun_sparks.tga
+- Assets/arts/missiles/lightning_gun_flare_003.tga
+- Assets/arts/missiles/solo_gun_flare_02.tga
+- Assets/arts/missiles/Missile (7).png
+- Assets/arts/missiles/laser_impulse_impact_bolts_001.tga
+Dependencies: []

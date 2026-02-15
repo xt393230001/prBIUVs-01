@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 3793611963
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b154eb41166ddb22651817a013bd8933
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9c5c2bf181d9c166e27af67e2a391d17
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: b154eb41166ddb22651817a013bd8933
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/arts/ui/buttons/Btn_Rectangle01Blue_P.png
+- Assets/arts/ui/buttons/rocket.png
+- Assets/arts/ui/buttons/button_pushed.png
+- Assets/arts/ui/buttons/Btn_Rectangle01Blue_n.png
+- Assets/arts/ui/buttons/Btn_EquipmentGray_p.png
+- Assets/arts/ui/buttons/pause.png
+- Assets/arts/ui/buttons/Btn_EquipmentGreen_p.png
+- Assets/arts/ui/buttons/bullets.png
+- Assets/arts/ui/buttons/Btn_EquipmentCyan_p.png
+- Assets/arts/ui/buttons/Btn_EquipmentYellow_p.png
+- Assets/arts/ui/buttons/button_active.png
+- Assets/arts/ui/buttons/Btn_CloseWindow04White_02.png
+- Assets/arts/ui/buttons/button1.png
+- Assets/arts/ui/buttons/Btn_EquipmentRed_p.png
+Dependencies: []

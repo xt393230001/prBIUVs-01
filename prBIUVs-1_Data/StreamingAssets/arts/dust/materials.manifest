@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 2464614456
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b064669b891057f46edbb8241595ee37
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4b19f878eb57ce03e7805c8d4c292005
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: b064669b891057f46edbb8241595ee37
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/arts/dust/materials/EM Cloud 2.mat
+- Assets/arts/dust/materials/EM Cloud 3.mat
+- Assets/arts/dust/materials/EM Cloud 1.mat
+Dependencies:
+- D:/unity/unityProject/newYearProject/AssetBundles/StandaloneWindows/arts/dust/image

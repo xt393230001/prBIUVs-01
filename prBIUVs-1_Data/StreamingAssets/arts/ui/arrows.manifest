@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 2180686249
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 450286124ad53c4be4129715c1e2eed1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9c5c2bf181d9c166e27af67e2a391d17
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 450286124ad53c4be4129715c1e2eed1
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/arts/ui/arrows/plus.png
+- Assets/arts/ui/arrows/arrow_left.png
+- Assets/arts/ui/arrows/arrow1_right.png
+- Assets/arts/ui/arrows/back_arrow.png
+- Assets/arts/ui/arrows/long_arrow_left.png
+- Assets/arts/ui/arrows/arrow1_left.png
+- Assets/arts/ui/arrows/arrow_right.png
+- Assets/arts/ui/arrows/long_arrow_right.png
+Dependencies: []

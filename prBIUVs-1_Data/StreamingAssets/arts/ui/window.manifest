@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 4164978608
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ed4480dbe6e612958aaab9a2cc69da02
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9c5c2bf181d9c166e27af67e2a391d17
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: ed4480dbe6e612958aaab9a2cc69da02
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/arts/ui/window/window_transparent.png
+- Assets/arts/ui/window/window_transparent1.png
+- Assets/arts/ui/window/Btn_EquipmentGray_p.png
+Dependencies: []

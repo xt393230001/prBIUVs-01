@@ -1,0 +1,58 @@
+ManifestFileVersion: 0
+CRC: 2098331538
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1a94ee0e18651c1cf54708f7464e9c08
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3e791b575023766767e3fbe07d67cab9
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 1a94ee0e18651c1cf54708f7464e9c08
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 50
+  Script: {instanceID: 0}
+- Class: 58
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 75795b269014860408c543a40cba331d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a4e72caf11b51da4fbbb44f0f7330ab3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6bdfa825a3cdee429898d7a5af8a5e0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6ff08861d14b2834fbe7ac3dc58d1ced, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7bf3d1d351e7bbe49bc5f430f07474e6, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/prefabs/project/hiteffect/BBAPh.prefab
+- Assets/prefabs/project/hiteffect/DDICh.prefab
+- Assets/prefabs/project/hiteffect/BBAPBoomH.prefab
+- Assets/prefabs/project/hiteffect/BBPPh.prefab
+- Assets/prefabs/project/hiteffect/BBPPBoomH.prefab
+- Assets/prefabs/project/hiteffect/DDLCh.prefab
+- Assets/prefabs/project/hiteffect/CLPCh.prefab
+- Assets/prefabs/project/hiteffect/DDCCBoomH.prefab
+- Assets/prefabs/project/hiteffect/DDIFBoomH.prefab
+- Assets/prefabs/project/hiteffect/CLCIh.prefab
+- Assets/prefabs/project/hiteffect/DDCCh.prefab
+- Assets/prefabs/project/hiteffect/ExplosionMissiles.prefab
+Dependencies:
+- D:/unity/unityProject/newYearProject/AssetBundles/StandaloneWindows/arts/materials

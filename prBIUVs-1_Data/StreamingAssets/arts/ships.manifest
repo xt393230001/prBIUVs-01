@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 4067456020
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0322a39062f137aa81e988c14dddeece
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9c5c2bf181d9c166e27af67e2a391d17
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 0322a39062f137aa81e988c14dddeece
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/arts/ships/Carrier 1.png
+- Assets/arts/ships/Frigate 1.png
+- Assets/arts/ships/Alien 2.png
+- Assets/arts/ships/Cruiser 2.png
+- Assets/arts/ships/Destroyer 2.png
+- Assets/arts/ships/Station 1.png
+- Assets/arts/ships/Fighter 2.png
+- Assets/arts/ships/Fighter 3.png
+- Assets/arts/ships/Fighter 4.png
+- Assets/arts/ships/Cruiser 3.png
+- Assets/arts/ships/Alien 3.png
+- Assets/arts/ships/Alien 4.png
+- Assets/arts/ships/Frigate 2.png
+- Assets/arts/ships/Cruiser 1.png
+- Assets/arts/ships/Turret Platform.png
+- Assets/arts/ships/Huge 1.png
+- Assets/arts/ships/Alien 1.png
+- Assets/arts/ships/Destroyer 1.png
+- Assets/arts/ships/Station 2.png
+- Assets/arts/ships/Fighter 1.png
+Dependencies: []

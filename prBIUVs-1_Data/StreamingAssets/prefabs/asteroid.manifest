@@ -1,0 +1,44 @@
+ManifestFileVersion: 0
+CRC: 380851320
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 85a30616dc6777aa40850c72aae4cc8a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 52c0625dbcf32412fd05f8f5ce239e96
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 85a30616dc6777aa40850c72aae4cc8a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/prefabs/asteroid/asteroid_belt_6.prefab
+- Assets/prefabs/asteroid/asteroid_belt_9.prefab
+- Assets/prefabs/asteroid/asteroid_belt_7.prefab
+- Assets/prefabs/asteroid/asteroid_belt_3.prefab
+- Assets/prefabs/asteroid/asteroid_belt_1.prefab
+- Assets/prefabs/asteroid/asteroid_belt_4.prefab
+- Assets/prefabs/asteroid/asteroid_belt_0.prefab
+- Assets/prefabs/asteroid/asteroid_belt_2.prefab
+- Assets/prefabs/asteroid/asteroid_belt_8.prefab
+- Assets/prefabs/asteroid/asteroid_belt_5.prefab
+- Assets/prefabs/asteroid/asteroid_belt_10.prefab
+Dependencies:
+- D:/unity/unityProject/newYearProject/AssetBundles/StandaloneWindows/arts/asteroids
+- D:/unity/unityProject/newYearProject/AssetBundles/StandaloneWindows/arts/materials

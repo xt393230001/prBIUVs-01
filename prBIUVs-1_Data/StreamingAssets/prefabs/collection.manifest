@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 1845245698
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b54548fb5d0ed655987d04127afe8e6d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 293144df8e8ecd63dda85bce84e83d33
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: b54548fb5d0ed655987d04127afe8e6d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 50
+  Script: {instanceID: 0}
+- Class: 58
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: abea4ec30184c994ca8b14305ab8559e, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/prefabs/collection/Collection.prefab
+Dependencies:
+- D:/unity/unityProject/newYearProject/AssetBundles/StandaloneWindows/arts/ui/common

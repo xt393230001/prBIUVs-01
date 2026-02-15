@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 3870563367
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b425b00bb7b8bf8707e175381085642e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c7cffe8bba2a881e59659afc1e162982
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: b425b00bb7b8bf8707e175381085642e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 60
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: cb8459c28bbc49d4fbfc45a268c42fa6, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/prefabs/station/Position.prefab
+Dependencies:
+- D:/unity/unityProject/newYearProject/AssetBundles/StandaloneWindows/arts/particles
+- D:/unity/unityProject/newYearProject/AssetBundles/StandaloneWindows/prefabs/ui/common

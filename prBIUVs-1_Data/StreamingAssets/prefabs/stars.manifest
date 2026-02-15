@@ -1,0 +1,55 @@
+ManifestFileVersion: 0
+CRC: 828922374
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fc36db28242a968917559f1283e97301
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 130664ee456ba42324c4f8a6758c5cda
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: fc36db28242a968917559f1283e97301
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 825cb6692115265488dfea3adb7048d6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ff8ec50d03c060e499de7a9482b7b134, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b6e14811b51cddc4cac93e16e1102eba, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2b88e44b852c10446b9d9730538d11d6, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/prefabs/stars/Crystal.prefab
+- Assets/prefabs/stars/Barren.prefab
+- Assets/prefabs/stars/Gaseous.prefab
+- Assets/prefabs/stars/Planet.prefab
+- Assets/prefabs/stars/Asteroid.prefab
+- Assets/prefabs/stars/Sun.prefab
+- Assets/prefabs/stars/Moon.prefab
+- Assets/prefabs/stars/Ring.prefab
+- Assets/prefabs/stars/Lava.prefab
+Dependencies:
+- D:/unity/unityProject/newYearProject/AssetBundles/StandaloneWindows/arts/asteroids
+- D:/unity/unityProject/newYearProject/AssetBundles/StandaloneWindows/arts/materials
+- D:/unity/unityProject/newYearProject/AssetBundles/StandaloneWindows/arts/shader

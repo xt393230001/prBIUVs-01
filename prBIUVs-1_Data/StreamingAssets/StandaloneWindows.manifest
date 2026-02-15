@@ -1,0 +1,192 @@
+ManifestFileVersion: 0
+CRC: 2058662701
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: prefabs/asteroid
+      Dependencies:
+        Dependency_0: arts/materials
+        Dependency_1: arts/asteroids
+    Info_1:
+      Name: prefabs/enemy
+      Dependencies:
+        Dependency_0: prefabs/ui/common
+        Dependency_1: arts/ui/bars
+        Dependency_2: prefabs/collection
+        Dependency_3: prefabs/enemyhull/hull
+    Info_2:
+      Name: prefabs/enemyturret
+      Dependencies:
+        Dependency_0: arts/turrets
+        Dependency_1: arts/materials
+    Info_3:
+      Name: prefabs/player
+      Dependencies:
+        Dependency_0: prefabs/ui/common
+        Dependency_1: arts/ships
+    Info_4:
+      Name: prefabs/playerturret
+      Dependencies:
+        Dependency_0: arts/turrets
+        Dependency_1: arts/materials
+    Info_5:
+      Name: prefabs/station
+      Dependencies:
+        Dependency_0: arts/particles
+        Dependency_1: prefabs/ui/common
+    Info_6:
+      Name: arts/debris
+      Dependencies:
+        Dependency_0: arts/shader
+    Info_7:
+      Name: arts/missiles
+      Dependencies: {}
+    Info_8:
+      Name: arts/turrets
+      Dependencies:
+        Dependency_0: arts/materials
+    Info_9:
+      Name: arts/particles
+      Dependencies: {}
+    Info_10:
+      Name: arts/materials
+      Dependencies:
+        Dependency_0: arts/debris
+        Dependency_1: arts/missiles
+        Dependency_2: arts/turrets
+        Dependency_3: arts/particles
+        Dependency_4: arts/dust/image
+        Dependency_5: arts/shader
+    Info_11:
+      Name: prefabs/ui/common
+      Dependencies:
+        Dependency_0: prefabs/ui/shipcompent
+        Dependency_1: arts/ui/buttons
+        Dependency_2: arts/ui/font
+        Dependency_3: arts/ui/common
+    Info_12:
+      Name: prefabs/ui/shipcompent
+      Dependencies:
+        Dependency_0: arts/turrets
+        Dependency_1: arts/particles
+        Dependency_2: arts/ui/buttons
+        Dependency_3: arts/ui/font
+        Dependency_4: arts/ui/window
+        Dependency_5: arts/ui/common
+    Info_13:
+      Name: prefabs/ui/engine
+      Dependencies:
+        Dependency_0: arts/materials
+    Info_14:
+      Name: prefabs/playerhull/shield
+      Dependencies:
+        Dependency_0: arts/particles
+    Info_15:
+      Name: prefabs/playerhull/engine
+      Dependencies:
+        Dependency_0: arts/materials
+    Info_16:
+      Name: arts/ui/arrows
+      Dependencies: {}
+    Info_17:
+      Name: arts/ui/bars
+      Dependencies: {}
+    Info_18:
+      Name: arts/ui/buttons
+      Dependencies: {}
+    Info_19:
+      Name: arts/ui/font
+      Dependencies: {}
+    Info_20:
+      Name: arts/ui/joystick
+      Dependencies: {}
+    Info_21:
+      Name: arts/ui/window
+      Dependencies: {}
+    Info_22:
+      Name: arts/asteroids
+      Dependencies: {}
+    Info_23:
+      Name: arts/dust/materials
+      Dependencies:
+        Dependency_0: arts/dust/image
+    Info_24:
+      Name: arts/dust/image
+      Dependencies: {}
+    Info_25:
+      Name: arts/ships
+      Dependencies: {}
+    Info_26:
+      Name: prefabs/ui/ships
+      Dependencies:
+        Dependency_0: arts/ships
+    Info_27:
+      Name: prefabs/mercenary
+      Dependencies:
+        Dependency_0: prefabs/ui/common
+        Dependency_1: arts/ui/bars
+        Dependency_2: arts/ships
+        Dependency_3: prefabs/enemyhull/hull
+    Info_28:
+      Name: prefabs/mercenaryturret
+      Dependencies:
+        Dependency_0: arts/turrets
+        Dependency_1: arts/materials
+    Info_29:
+      Name: prefabs/playerguard
+      Dependencies:
+        Dependency_0: arts/turrets
+        Dependency_1: arts/particles
+        Dependency_2: arts/materials
+        Dependency_3: prefabs/ui/common
+        Dependency_4: arts/ships
+        Dependency_5: prefabs/enemyhull/hull
+        Dependency_6: prefabs/project/project
+    Info_30:
+      Name: prefabs/project/hiteffect
+      Dependencies:
+        Dependency_0: arts/materials
+    Info_31:
+      Name: prefabs/project/shooteffect
+      Dependencies:
+        Dependency_0: arts/materials
+    Info_32:
+      Name: prefabs/enemyhull/engine
+      Dependencies:
+        Dependency_0: arts/materials
+    Info_33:
+      Name: prefabs/collection
+      Dependencies:
+        Dependency_0: arts/ui/common
+    Info_34:
+      Name: prefabs/enemyhull/hull
+      Dependencies:
+        Dependency_0: arts/debris
+        Dependency_1: arts/materials
+        Dependency_2: arts/ui/bars
+    Info_35:
+      Name: prefabs/project/project
+      Dependencies:
+        Dependency_0: arts/debris
+        Dependency_1: arts/missiles
+        Dependency_2: arts/particles
+        Dependency_3: arts/materials
+        Dependency_4: arts/dust/image
+        Dependency_5: prefabs/project/hiteffect
+        Dependency_6: prefabs/project/shooteffect
+        Dependency_7: arts/shader
+    Info_36:
+      Name: prefabs/stars
+      Dependencies:
+        Dependency_0: arts/materials
+        Dependency_1: arts/asteroids
+        Dependency_2: arts/shader
+    Info_37:
+      Name: arts/stars
+      Dependencies: {}
+    Info_38:
+      Name: arts/shader
+      Dependencies: {}
+    Info_39:
+      Name: arts/ui/common
+      Dependencies: {}

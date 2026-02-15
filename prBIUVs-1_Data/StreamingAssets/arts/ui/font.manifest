@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 426404874
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: efbe62e0a3ac6206db106b422a15ebf7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8155f595c8d92d69889ccac8f7c93b72
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: efbe62e0a3ac6206db106b422a15ebf7
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/arts/ui/font/zekton free.ttf
+- Assets/arts/ui/font/Play-Regular.ttf
+- Assets/arts/ui/font/Play-Bold.ttf
+Dependencies: []

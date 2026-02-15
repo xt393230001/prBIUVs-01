@@ -1,0 +1,96 @@
+ManifestFileVersion: 0
+CRC: 2101094939
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9af4017b64f45acdb7c1982c22647e97
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4b19f878eb57ce03e7805c8d4c292005
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 9af4017b64f45acdb7c1982c22647e97
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/arts/materials/laser_impulse_flare_005.mat
+- Assets/arts/materials/seeker_bolt_explosion_02.mat
+- Assets/arts/materials/lightning_gun_beam_001.mat
+- Assets/arts/materials/plasma_gun_flames_001.mat
+- Assets/arts/materials/seeker_bolt_sparks.mat
+- Assets/arts/materials/belt_mat.mat
+- Assets/arts/materials/laser_impulse_star.mat
+- Assets/arts/materials/laser_impulse_flare_004.mat
+- Assets/arts/materials/13 - Default.mat
+- Assets/arts/materials/laser_impulse_flare_007.mat
+- Assets/arts/materials/sniper_smoke.mat
+- Assets/arts/materials/laser_impulse_spark_bolt.mat
+- Assets/arts/materials/seeker_bolt_flare.mat
+- Assets/arts/materials/plasma_gun_flare_001.mat
+- Assets/arts/materials/trail_002.mat
+- Assets/arts/materials/seeker_bolt_smoke_01.mat
+- Assets/arts/materials/lightning_gun_beam_002.mat
+- Assets/arts/materials/Explosion_Flames_002.mat
+- Assets/arts/materials/Smoke Trail 2.mat
+- Assets/arts/materials/Explosion_Halo.mat
+- Assets/arts/materials/Explosion_Flare_001.mat
+- Assets/arts/materials/solo_gun_sparks.mat
+- Assets/arts/materials/plasma_gun_trail_002.mat
+- Assets/arts/materials/seeker_bolt_sparks_02.mat
+- Assets/arts/materials/flames_flame_blue.mat
+- Assets/arts/materials/Flare.mat
+- Assets/arts/materials/Explosions_Heat_002.mat
+- Assets/arts/materials/Beam.mat
+- Assets/arts/materials/plasma_gun_flames_003.mat
+- Assets/arts/materials/Explosion_Flames_003.mat
+- Assets/arts/materials/lightning_gun_flare.mat
+- Assets/arts/materials/vulcan_heavy_mpact.mat
+- Assets/arts/materials/lightning_gun_spark_002.mat
+- Assets/arts/materials/Hull_Hit_Sparks.mat
+- Assets/arts/materials/plasma_gun_flames_002.mat
+- Assets/arts/materials/Flare Animorphic.mat
+- Assets/arts/materials/seeker_bolt_explosion_01.mat
+- Assets/arts/materials/plasma_gun_trail_001.mat
+- Assets/arts/materials/Explosion.mat
+- Assets/arts/materials/Explosion_Halo_Glow.mat
+- Assets/arts/materials/Ion Trail.mat
+- Assets/arts/materials/vulcan_smoke.mat
+- Assets/arts/materials/seeker_bolt_smoke_02.mat
+- Assets/arts/materials/laser_impulse_projectile_002.mat
+- Assets/arts/materials/Explosion_Flare_FlameTail_001.mat
+- Assets/arts/materials/laser_impulse_flare_001.mat
+- Assets/arts/materials/laser_impulse_wave.mat
+- Assets/arts/materials/plasma_gun_flare_002.mat
+- Assets/arts/materials/Explosion_Flames_001.mat
+- Assets/arts/materials/vulcan_spark.mat
+- Assets/arts/materials/Explosion_Flare_FlameTail_Sparks_001.mat
+- Assets/arts/materials/lightning_gun_spark_001.mat
+- Assets/arts/materials/laser_impulse_projectile_001.mat
+- Assets/arts/materials/Explosions_Heat_001.mat
+- Assets/arts/materials/Debris_01.mat
+- Assets/arts/materials/plasma_gun_bolt.mat
+- Assets/arts/materials/Smoke Trail 1.mat
+- Assets/arts/materials/Exhaust.mat
+- Assets/arts/materials/trail_001.mat
+- Assets/arts/materials/lightning_gun_ring.mat
+- Assets/arts/materials/seeker_bolt_fragment.mat
+- Assets/arts/materials/solo_gun_flames_02.mat
+- Assets/arts/materials/solo_gun_flames_01.mat
+- Assets/arts/materials/ExplosionDust.mat
+- Assets/arts/materials/Hull_Hit.mat
+- Assets/arts/materials/seeker_bolt_sparks_01.mat
+- Assets/arts/materials/TurretsPBR.mat
+Dependencies:
+- D:/unity/unityProject/newYearProject/AssetBundles/StandaloneWindows/arts/debris
+- D:/unity/unityProject/newYearProject/AssetBundles/StandaloneWindows/arts/dust/image
+- D:/unity/unityProject/newYearProject/AssetBundles/StandaloneWindows/arts/missiles
+- D:/unity/unityProject/newYearProject/AssetBundles/StandaloneWindows/arts/particles
+- D:/unity/unityProject/newYearProject/AssetBundles/StandaloneWindows/arts/shader
+- D:/unity/unityProject/newYearProject/AssetBundles/StandaloneWindows/arts/turrets

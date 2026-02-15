@@ -1,0 +1,44 @@
+ManifestFileVersion: 0
+CRC: 3415650692
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 775a998f2a7c19c92ba9a339764b1f72
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0655583e85f2ca6047a451d633feb28b
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 775a998f2a7c19c92ba9a339764b1f72
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 61
+  Script: {instanceID: 0}
+- Class: 96
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/prefabs/playerhull/engine/YellowEngine.prefab
+- Assets/prefabs/playerhull/engine/RedEngine.prefab
+- Assets/prefabs/playerhull/engine/PinkEngine.prefab
+- Assets/prefabs/playerhull/engine/BlueEngine.prefab
+- Assets/prefabs/playerhull/engine/MazarineEngine.prefab
+- Assets/prefabs/playerhull/engine/PurpleEngine.prefab
+- Assets/prefabs/playerhull/engine/OrangeEngine.prefab
+- Assets/prefabs/playerhull/engine/GreenEngine.prefab
+- Assets/prefabs/playerhull/engine/LightGreenEngine.prefab
+- Assets/prefabs/playerhull/engine/WhiteEngine.prefab
+Dependencies:
+- D:/unity/unityProject/newYearProject/AssetBundles/StandaloneWindows/arts/materials

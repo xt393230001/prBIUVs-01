@@ -1,0 +1,62 @@
+ManifestFileVersion: 0
+CRC: 1015983416
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 54088dcd7b9aeb968f0c71e12ef55817
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 00506e7ad4cff3b34e62ff21ee2d6251
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 54088dcd7b9aeb968f0c71e12ef55817
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 700585db68107e44f992ba64d072b8c1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 75795b269014860408c543a40cba331d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 16929f6fae34aa5459b26e94a9c3f6b4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+Assets:
+- Assets/prefabs/enemyhull/hull/ShipExplosion.prefab
+- Assets/prefabs/enemyhull/hull/HullData.prefab
+Dependencies:
+- D:/unity/unityProject/newYearProject/AssetBundles/StandaloneWindows/arts/debris
+- D:/unity/unityProject/newYearProject/AssetBundles/StandaloneWindows/arts/materials
+- D:/unity/unityProject/newYearProject/AssetBundles/StandaloneWindows/arts/ui/bars

@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 163122615
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 71ca890a23950d14bb1711393d02afa9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9c5c2bf181d9c166e27af67e2a391d17
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 71ca890a23950d14bb1711393d02afa9
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/arts/ui/common/Icon_ExampleCoin0.png
+- Assets/arts/ui/common/Icon_ExampleCoins01.png
+Dependencies: []

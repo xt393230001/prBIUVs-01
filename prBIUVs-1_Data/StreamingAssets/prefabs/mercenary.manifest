@@ -1,0 +1,75 @@
+ManifestFileVersion: 0
+CRC: 1700084442
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 47098d02b19d4e93e6bde346ef062a78
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 85d10d6c0f19fe580c08517e8383e2ff
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 47098d02b19d4e93e6bde346ef062a78
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 50
+  Script: {instanceID: 0}
+- Class: 61
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 700585db68107e44f992ba64d072b8c1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cb8459c28bbc49d4fbfc45a268c42fa6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 16929f6fae34aa5459b26e94a9c3f6b4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 842429b480c9a4f4cbc8152d904d1344, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+Assets:
+- Assets/prefabs/mercenary/Frigate 2.prefab
+- Assets/prefabs/mercenary/Huge 1.prefab
+- Assets/prefabs/mercenary/Destroyer 1.prefab
+- Assets/prefabs/mercenary/Carrier 1.prefab
+- Assets/prefabs/mercenary/Cruiser 1.prefab
+- Assets/prefabs/mercenary/Cruiser 3.prefab
+- Assets/prefabs/mercenary/Destroyer 2.prefab
+- Assets/prefabs/mercenary/Frigate 1.prefab
+- Assets/prefabs/mercenary/Cruiser 2.prefab
+- Assets/prefabs/mercenary/Alien 3.prefab
+Dependencies:
+- D:/unity/unityProject/newYearProject/AssetBundles/StandaloneWindows/arts/ships
+- D:/unity/unityProject/newYearProject/AssetBundles/StandaloneWindows/arts/ui/bars
+- D:/unity/unityProject/newYearProject/AssetBundles/StandaloneWindows/prefabs/enemyhull/hull
+- D:/unity/unityProject/newYearProject/AssetBundles/StandaloneWindows/prefabs/ui/common

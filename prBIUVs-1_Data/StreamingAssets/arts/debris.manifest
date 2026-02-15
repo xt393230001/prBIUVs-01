@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 1565362060
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2df15a30838ab2e6a4abd93796879a51
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2aa0df22944e44b18c571c3c52c00e8b
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 2df15a30838ab2e6a4abd93796879a51
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/arts/debris/Debris (4).png
+- Assets/arts/debris/Debris_003.tga
+- Assets/arts/debris/Debris_02.mat
+- Assets/arts/debris/Debris (5).png
+- Assets/arts/debris/Debris (6).png
+- Assets/arts/debris/Debris (3).png
+- Assets/arts/debris/Debris (1).png
+- Assets/arts/debris/Debris (2).png
+- Assets/arts/debris/Debris_001.tga
+- Assets/arts/debris/Debris_002.tga
+Dependencies:
+- D:/unity/unityProject/newYearProject/AssetBundles/StandaloneWindows/arts/shader

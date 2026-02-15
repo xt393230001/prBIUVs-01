@@ -1,0 +1,52 @@
+ManifestFileVersion: 0
+CRC: 3862044989
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 699cc119cbed3c2fbe07922a07e733ae
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9c5c2bf181d9c166e27af67e2a391d17
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 699cc119cbed3c2fbe07922a07e733ae
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/arts/particles/seeker_bolt_flare.tga
+- Assets/arts/particles/Flare.png
+- Assets/arts/particles/Beam.png
+- Assets/arts/particles/Explosion_003.tga
+- Assets/arts/particles/Projectile Thin.png
+- Assets/arts/particles/Explosion_001.tga
+- Assets/arts/particles/particle_01.tga
+- Assets/arts/particles/IonTrail.png
+- Assets/arts/particles/Flare_Glow_001.tga
+- Assets/arts/particles/Projectile Sharp.png
+- Assets/arts/particles/BigFlare.png
+- Assets/arts/particles/Exhaust.png
+- Assets/arts/particles/flames_blue_sprites.tga
+- Assets/arts/particles/Small Flare.png
+- Assets/arts/particles/heat_005.tga
+- Assets/arts/particles/trail_002.tga
+- Assets/arts/particles/SmokeTrail1.png
+- Assets/arts/particles/SmokeTrail2.png
+- Assets/arts/particles/Shield Bubble.png
+- Assets/arts/particles/Big Projectile.png
+- Assets/arts/particles/heat_003.tga
+- Assets/arts/particles/Smoke 2.png
+- Assets/arts/particles/Starflare.png
+- Assets/arts/particles/Burst.png
+- Assets/arts/particles/Explosion.png
+- Assets/arts/particles/Smoke 1.png
+- Assets/arts/particles/Explosion_002.tga
+- Assets/arts/particles/trail_001.tga
+- Assets/arts/particles/Smoke 3.png
+- Assets/arts/particles/Lazer.png
+- Assets/arts/particles/Flare_001.tga
+Dependencies: []

@@ -1,0 +1,50 @@
+ManifestFileVersion: 0
+CRC: 1571250899
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ce3cbe31f20e11f29057b0b4936d68cf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a75821701259f6e764f5d31fabbdba48
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: ce3cbe31f20e11f29057b0b4936d68cf
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/arts/turrets/Turret Medium 4.png
+- Assets/arts/turrets/Turret Medium 2.png
+- Assets/arts/turrets/Turret Medium 1.png
+- Assets/arts/turrets/Turrets_Emission.png
+- Assets/arts/turrets/Turrets.FBX
+- Assets/arts/turrets/Turrets_AlbedoTransparency.png
+- Assets/arts/turrets/Turret Large 1.png
+- Assets/arts/turrets/Turret Small 4.png
+- Assets/arts/turrets/Turrets_SpecularSmoothness.png
+- Assets/arts/turrets/Turrets_Normal.png
+- Assets/arts/turrets/Turret Small 1.png
+- Assets/arts/turrets/Turret Medium 3.png
+- Assets/arts/turrets/Turret Small 3.png
+- Assets/arts/turrets/Turret Small 2.png
+- Assets/arts/turrets/Crosshair.png
+- Assets/arts/turrets/Turret Large 2.png
+Dependencies:
+- D:/unity/unityProject/newYearProject/AssetBundles/StandaloneWindows/arts/materials
